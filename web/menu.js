@@ -132,8 +132,8 @@ var Menu = function (pjs, obj) {
 };
 
 game.newLoopFromClassObject('menu', new Menu(pjs, {
-	name  : 'Bounce',
-	author : 'SkanerSoft',
+	name  : 'DZ4 "Bounce"',
+	author : 'Tarasov&Krayushkina(ITCS-16-1,3)',
 	radius : 15,
 	items : {
 		game  : 'В игру',
